@@ -15,6 +15,6 @@ This program is thoroughly tested and developed on `Windows 11 Home Edition x64`
 <br />
 
 Untried platforms:
-* Windows 11 x86
+* Windows 11 x86 (doesnt exitist)
 * Windows 10 x86
 * Any Windows OS below Windows 10
